@@ -12,3 +12,6 @@
 > python -m pip install pandas
 
 > python -m pip install opencv-python
+
+* Then you can run the code. The program will open a window with a picture. Now all you have to do is click anywhere on the picture and the color of the clicked area will be displayed.
+* To exit press ‘esc’ key on your laptop.
