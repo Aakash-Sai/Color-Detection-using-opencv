@@ -10,4 +10,5 @@
 
 * For this program to run python must be installed on your computer along with the Pandas the Opencv libraries. You can download python from their original website. For downloading the libraries simply type the following commands in the command prompt to install each one of them.
 > python -m pip install pandas
+
 > python -m pip install opencv-python
