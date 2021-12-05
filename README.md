@@ -15,3 +15,9 @@
 
 * Then you can run the code. The program will open a window with a picture. Now all you have to do is click anywhere on the picture and the color of the clicked area will be displayed.
 * To exit press ‘esc’ key on your laptop.
+## Supervisor
+Dr. Siddhaling Urolagin,
+PhD, Post-Doc, (Machine Learning),
+dr.siddhaling@gmail.com,
+www.github.com/siddhaling
+www.researchreader.com
