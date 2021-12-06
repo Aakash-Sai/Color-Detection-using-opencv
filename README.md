@@ -18,6 +18,12 @@ Colour detection is necessary to recognize objects, it is also used as a tool in
 
 * Then you can run the code. The program will open a window with a picture. Now all you have to do is click anywhere on the picture and the color of the clicked area will be displayed.
 * To exit press ‘esc’ key on your laptop.
+## Video
+
+
+https://user-images.githubusercontent.com/56875895/144826794-68b01088-5376-4742-9e80-4a699cf1f622.mp4
+
+
 ## Supervisor
 Dr. Siddhaling Urolagin,
 PhD, Post-Doc, (Machine Learning),
