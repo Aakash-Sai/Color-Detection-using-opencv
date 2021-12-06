@@ -1,4 +1,4 @@
-# Help Document![image](https://user-images.githubusercontent.com/56875895/144827692-5c48b19c-6106-410c-931e-27200375f3eb.png)
+# Help Document
 
 In this project, we are going to build an application through which you can automatically get the name of the color by clicking on them.
 Colour detection is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.
