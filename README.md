@@ -19,7 +19,9 @@ In this project, we are going to build an application through which you can auto
 
 * Then you can run the code. The program will open a window with a picture. Now all you have to do is click anywhere on the picture and the color of the clicked area will be displayed.
 * To exit press ‘esc’ key on your laptop.
+
 ## Video
+https://user-images.githubusercontent.com/56875895/163664695-b83931cd-fc21-4a63-8cf9-b0ce047c12b3.mp4
 
 
-https://user-images.githubusercontent.com/56875895/144826794-68b01088-5376-4742-9e80-4a699cf1f622.mp4
+
