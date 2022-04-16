@@ -8,7 +8,7 @@ Colour detection is necessary to recognize objects, it is also used as a tool in
 
 ## How to execute the code:
 ### Note: Run this code in VS code or any other IDE. The program won't run if you use an online compiler. If you are unable to run the code on your personal laptop, I have attached a video at the bottom for your reference.
-*	Download the project folder 'DS _assignment-colordetection' which contains the following files.
+*	Download the project folder 'color-detection' which contains the following files.
 
 ![N|Solid](https://media.discordapp.net/attachments/880161114271387729/917108724928217128/Capture.PNG)
 
