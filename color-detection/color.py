@@ -1,6 +1,4 @@
-# Aakash Sai Unnam - 2019A7PS0196U
-# Siddharth Bhandary - 2019A7PS0218U
-# Data Science Assignment - Color Detection
+# Aakash Sai Unnam
 
 import pandas as pd
 import cv2
