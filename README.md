@@ -1,7 +1,7 @@
 # Help Document
 
 In this project, we are going to build an application through which you can automatically get the name of the color by clicking on them.
-Colour detection is necessary to recognize objects, it is also used as a tool in various image editing and drawing apps.
+
 ## Packages:
 *	Pandas – We used this library to read the ‘colors.csv’ data file. 
 *	Opencv – We used this library to analyze the image and return the appropriate color.
@@ -23,11 +23,3 @@ Colour detection is necessary to recognize objects, it is also used as a tool in
 
 
 https://user-images.githubusercontent.com/56875895/144826794-68b01088-5376-4742-9e80-4a699cf1f622.mp4
-
-
-## Supervisor
-Dr. Siddhaling Urolagin,
-PhD, Post-Doc, (Machine Learning),
-dr.siddhaling@gmail.com,
-www.github.com/siddhaling
-www.researchreader.com
